@@ -34,4 +34,4 @@ Displayed real-time results and plotted running probability of heads vs tails.
 - Deployment:
 Deployed the app using Streamlit Cloud, enabling live web access.
 
-## View Project: [Live Demo](https://github.com/HyrumDev94/coin-toss-app/blob/main/app.py)
+## View Project: [Live Demo](https://coin-toss-app-930o.onrender.com/)
