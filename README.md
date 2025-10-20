@@ -59,3 +59,5 @@ Displayed real-time results and plotted running probability of heads vs tails.
 
 - Deployment:
 Deployed the app using Streamlit Cloud, enabling live web access.
+
+<img width="1599" height="857" alt="Screenshot 2025-10-20 at 2 14 05 PM" src="https://github.com/user-attachments/assets/6d3fa9b7-3b1c-47f1-ade0-53e2a5cdcb87" />
