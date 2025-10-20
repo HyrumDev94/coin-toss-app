@@ -1,4 +1,30 @@
-# Render Streamlit App
+# Coin Toss App
+
+A simple interactive Streamlit app that simulates repeated coin tosses and visualizes how the probability of heads stabilizes around 50%.
+
+🚀 **Live Demo:** [https://coin-toss-app-930o.onrender.com](https://coin-toss-app-930o.onrender.com)
+
+---
+
+## Features
+- Flip a virtual coin thousands of times
+- Visualize cumulative probabilities with live charts
+- Built with Streamlit, NumPy, Pandas, and Altair
+- Deployed using Render
+
+---
+
+## Run it locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/HyrumDev94/coin-toss-app.git
+   cd coin-toss-app
+
+## Install dependencies: 
+pip install -r requirements.txt
+
+## Run the app:
+streamlit run app.py
 
 ## Project Overview
 
@@ -33,5 +59,3 @@ Displayed real-time results and plotted running probability of heads vs tails.
 
 - Deployment:
 Deployed the app using Streamlit Cloud, enabling live web access.
-
-## View Project: [Live Demo](https://coin-toss-app-930o.onrender.com/)
