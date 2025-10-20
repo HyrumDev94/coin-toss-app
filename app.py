@@ -8,4 +8,3 @@ if st.button("Flip Coin"):
     result = random.choice(["Heads", "Tails"])
     st.write(f"The coin landed on **{result}**!")
 
-requirements.txt: streamlit
