@@ -61,3 +61,10 @@ Displayed real-time results and plotted running probability of heads vs tails.
 Deployed the app using Streamlit Cloud, enabling live web access.
 
 <img width="1599" height="857" alt="Screenshot 2025-10-20 at 2 14 05 PM" src="https://github.com/user-attachments/assets/6d3fa9b7-3b1c-47f1-ade0-53e2a5cdcb87" />
+
+## Future Improvements
+
+- Add user authentication to allow personalized statistics across sessions.  
+- Incorporate animations or sound effects for a more engaging experience.  
+- Store session data in a lightweight database (SQLite or Firebase) to track global usage trends.  
+- Expand functionality to simulate weighted coins or multiple-coin experiments for teaching probability concepts.
